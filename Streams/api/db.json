@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "wilson",
+      "description": "paul",
+      "id": 1
+    },
+    {
+      "title": "I created this stream",
+      "description": "Made by wilson patch",
+      "userId": "115972893900904284267",
+      "id": 3
+    },
+    {
+      "title": "new stream",
+      "description": "programmatic navig",
+      "id": 4
+    },
+    {
+      "title": "duplicate",
+      "description": "paul",
+      "id": 5
+    }
+  ]
+}
